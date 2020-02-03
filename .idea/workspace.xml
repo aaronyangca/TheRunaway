@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57f31044-5ce5-436f-9fdd-2db8fe9e55a6" name="Default Changelist" comment="" />
+    <list default="true" id="57f31044-5ce5-436f-9fdd-2db8fe9e55a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheRunaway1.py" beforeDir="false" afterPath="$PROJECT_DIR$/TheRunaway1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheRunaway2:TheAcidLand.py" beforeDir="false" afterPath="$PROJECT_DIR$/TheRunaway2:TheAcidLand.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XBDpOMZB3QL7bnkX241mO2h8bF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Python.The Runaway 3: The Electrical lands">
     <configuration name="The Runaway 3: The Electrical lands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -118,7 +129,19 @@
       <option name="presentableId" value="Default" />
       <updated>1580510775042</updated>
     </task>
+    <task id="LOCAL-00001" summary="Runaway 3">
+      <created>1580688130845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580688130845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Runaway 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Runaway 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="457" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580655117590">
@@ -126,6 +149,10 @@
     </state>
     <state x="457" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1580585466013" />
     <state x="457" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1580655117590" />
+    <state x="353" y="39" key="CommitChangelistDialog2" timestamp="1580688130628">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="353" y="39" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1580688130628" />
     <state width="1419" height="527" key="GridCell.Tab.0.bottom" timestamp="1580655901093">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
