@@ -312,3 +312,4 @@ if around != 'Stand':
     time.sleep(1)
     print("THE END.")
     quit()
+print("BYE")

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f31044-5ce5-436f-9fdd-2db8fe9e55a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Runaway 3: The Electrical lands.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Runaway 3: The Electrical lands.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TheRunaway1.py" beforeDir="false" afterPath="$PROJECT_DIR$/TheRunaway1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TheRunaway2:TheAcidLand.py" beforeDir="false" afterPath="$PROJECT_DIR$/TheRunaway2:TheAcidLand.py" afterDir="false" />
     </list>
@@ -189,6 +190,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580584989529" />
+    <state x="433" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1581197812714">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1581192469982" />
+    <state x="433" y="283" key="com.intellij.ide.util.TipDialog/47.23.1393.877@47.23.1393.877" timestamp="1581197812714" />
     <state x="385" y="202" width="670" height="619" key="search.everywhere.popup" timestamp="1580657508611">
       <screen x="0" y="23" width="1440" height="823" />
     </state>

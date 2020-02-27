@@ -466,3 +466,4 @@ if bl.lower == 'castle':
     print("THE END!")
     quit()
 quit()
+print("BYE")
